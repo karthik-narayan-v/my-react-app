@@ -1,9 +1,7 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
 import React from 'react';
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 
-const logo = require("./logo.svg") as string;
 
 function App() {
   return (
